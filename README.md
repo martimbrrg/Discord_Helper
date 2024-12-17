@@ -38,7 +38,7 @@ Voici ce que vous pouvez faire avec **Discord_Helper** :
 ## 🛠️ Installation
 
 ### Téléchargement
-1. Téléchargez le fichier **Discord_Helper** depuis la page [GitHub](https://github.com/tonprofil/Discord_Helper).
+1. Téléchargez le fichier **Discord_Helper** depuis la page [GitHub](https://github.com/martimbrrg/Discord_Helper).
 2. Exécutez le fichier téléchargé pour démarrer l'application.
 
 ### Prérequis
