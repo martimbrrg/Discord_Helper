@@ -1,5 +1,3 @@
-Voici un modèle de fichier **"README.md"** pour **Discord_Helper**, intégrant des emojis et le lien vers la vidéo tutoriel que tu m'as donné.
-
 ---
 
 # Discord_Helper 🚀
@@ -64,5 +62,3 @@ Si vous avez des questions, des suggestions ou des idées pour améliorer **Disc
 Si vous aimez Discord_Helper, partagez-le avec vos amis et n'oubliez pas de **laisser un avis** ou de proposer des améliorations ! Merci de contribuer à faire évoluer cet outil. 😊
 
 ---
-
-Tu peux copier ce texte dans ton fichier **README.md** sur GitHub. Cela devrait fournir une explication claire et visuellement engageante sur le projet !
