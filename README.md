@@ -1,5 +1,3 @@
----
-
 # Discord_Helper 🚀
 
 **Bienvenue dans Discord_Helper !** 🎉  
@@ -61,4 +59,3 @@ Si vous avez des questions, des suggestions ou des idées pour améliorer **Disc
 ## 🚀 Rejoignez la communauté
 Si vous aimez Discord_Helper, partagez-le avec vos amis et n'oubliez pas de **laisser un avis** ou de proposer des améliorations ! Merci de contribuer à faire évoluer cet outil. 😊
 
----
